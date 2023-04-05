@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/im/f5.jpg");
+    background-size: cover;
+	background-repeat: repeat-y;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1{
+    font-size: 2.4em;
+}
+h3{
+    font-size: 1.4em;
+}
+h1,h3,button{
+    color: #fff;
+}
+button{
+    width: 62%;
+    height: 100px;
+    font-size: 1.5em;
+    padding: 0px;
+    margin: 7px 10%;
+    border-radius: 30px;
+    background-color: #f22;
+    box-shadow: 4px 4px 10px black;
+    border: 2px solid lightgray;
+}
+button:hover{
+    background-color: #0010019e;
+}
+
+div{
+    line-height: 30px;
+    margin: 18% 0 0 54%;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: absolute;
+    bottom: 0;
+}
+#f{
+    color: rgb(227, 213, 13);
+    font-size: 2.4em;
+    text-shadow: 0px 0px 13px rgb(5, 5, 0);
+}
+#s{
+    font-size: 1.4em;
+    color: #fff;
+    text-shadow: 0px 0px 13px rgb(5, 5, 0);
+    font-weight: bold;
+}
